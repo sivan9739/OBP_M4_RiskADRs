@@ -11,10 +11,14 @@
             "id": "4b2047e0f40ba759",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CLAUDE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "CLAUDE"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CLAUDE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for CLAUDE"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CLAUDE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from CLAUDE"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "CLAUDE.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of CLAUDE"
             }
           }
         ]
@@ -174,19 +181,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "4b2047e0f40ba759",
   "lastOpenFiles": [
+    "00-inbox.md",
+    "CLAUDE.md",
     "context/architecture-principles.md",
-    "context/non-functional-requirements.md",
-    "context/decisions.md",
-    "templates/adr-template.md",
-    "context/specs.md",
-    "context/retro.md",
-    "context/daily.md",
     "context/context.md",
+    "context/daily.md",
+    "context/decisions.md",
+    "context/non-functional-requirements.md",
+    "context/retro.md",
+    "context/specs.md",
+    "templates/spec-template.md",
+    "templates/adr-template.md",
     "adrs/rejected",
     "adrs/superseded",
     "adrs/accepted",

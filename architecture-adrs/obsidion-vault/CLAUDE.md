@@ -1,15 +1,5 @@
-# Project Contex
-This repository is used to create, maintain, and manage Architecture Decision Records (ADRs) for technology, platform, integration, cloud, data, security, and operational architecture decisions.
-
-The primary objective is to capture architectural decisions in a consistent, traceable, and reusable format, enabling stakeholders to understand:
-
-Why a decision was made
-What alternatives were considered
-Trade-offs and consequences
-Business and technical impacts
-Implementation considerations
-
-The repository acts as a single source of truth for architectural governance and decision-making.
+# Project Context
+Objective is to capture all context around OBP Milestone 4 along with the Bet representation options from Upstream systems (FBP) to enable analysis on the options, compare in terms of impacts to Risk downstream tools, alignment with To-Be Future Bet model, differences between them, challenges in terms of business needs and any other technical issues and create an ADR.
 
 # Goals
 
