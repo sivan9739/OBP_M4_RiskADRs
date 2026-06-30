@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1193212fa44b0284",
+        "id": "7e4c594c7245ea38",
         "type": "tabs",
         "children": [
           {
-            "id": "452cf52fadba4a18",
+            "id": "4b2047e0f40ba759",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "context/architecture-principles.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "architecture-principles"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "context/architecture-principles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for architecture-principles"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "context/architecture-principles.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from architecture-principles"
+              "title": "Outgoing links"
             }
           },
           {
@@ -156,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "context/architecture-principles.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of architecture-principles"
+              "title": "Outline"
             }
           }
         ]
@@ -180,11 +173,13 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "452cf52fadba4a18",
+  "active": "4b2047e0f40ba759",
   "lastOpenFiles": [
+    "context/architecture-principles.md",
     "context/non-functional-requirements.md",
     "context/decisions.md",
     "templates/adr-template.md",
@@ -196,7 +191,6 @@
     "adrs/superseded",
     "adrs/accepted",
     "adrs/proposed",
-    "adrs/proposes",
-    "context/architecture-principles.md"
+    "adrs/proposes"
   ]
 }
